@@ -19,9 +19,9 @@ Designed with a clean UI to help you organize tasks like a **grocery list** or d
 
 Here’s how the app looks:
 
-![To-Do App Preview](images/Preview%20(3).png)
-![To-Do App Preview](images/Preview%20(2).png)
 ![To-Do App Preview](images/Preview%20(1).png)
+![To-Do App Preview](images/Preview%20(2).png)
+![To-Do App Preview](images/Preview%20(3).png)
 
 ---
 
