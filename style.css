@@ -166,3 +166,16 @@ ul li span:hover {
         margin-top: 8px;
     }
 }
+
+.watermark {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  font-size: 12px;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4); /* light grey, unobtrusive */
+  user-select: none; /* prevents text selection */
+  pointer-events: none; /* makes it unclickable */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
