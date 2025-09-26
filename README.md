@@ -1,4 +1,4 @@
-# 📝 To-Do List App
+# 📝 Smart To-Do List with Gen AI
 
 A simple and elegant **To-Do List Application** built using **HTML, CSS, and JavaScript**.  
 Designed with a clean UI to help you organize tasks like a **grocery list** or daily checklist.
