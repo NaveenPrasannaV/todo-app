@@ -228,7 +228,7 @@ document.addEventListener("chatbot-add-task", (e) => {
 (function greetOnce() {
   // show a single short bot message if none present
   if (!messagesDiv.querySelector(".chat-msg")) {
-    addMessageBot("Hey! I'm your helper — type 'help' or 'add <task>'.");
+    addMessageBot("Hey! I'm your helper — type 'help' or 'add milk'.");
   }
 })();
 
