@@ -12,7 +12,7 @@ const inputField = document.getElementById("chatbot-input");
 const sendButton = document.getElementById("chatbot-send");
 
 // ---------- To-Do functions ----------
-// create list item from given text and append; saves data
+// create list item from given text and append; saves data 
 function addTaskText(text) {
   if (!text || !text.toString().trim()) return;
   const li = document.createElement("li");
@@ -228,7 +228,6 @@ document.addEventListener("chatbot-add-task", (e) => {
 (function greetOnce() {
   // show a single short bot message if none present
   if (!messagesDiv.querySelector(".chat-msg")) {
-    addMessageBot("Hey! I'm your helper — type 'help' or 'add milk'.");
-  }
+    addMessageBot("Hi!👋 how can i assist you today?");  }
 })();
 
