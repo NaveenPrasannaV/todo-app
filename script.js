@@ -228,6 +228,6 @@ document.addEventListener("chatbot-add-task", (e) => {
 (function greetOnce() {
   // show a single short bot message if none present
   if (!messagesDiv.querySelector(".chat-msg")) {
-    addMessageBot("Hi!👋 how can i assist you today?");  }
+    addMessageBot("Hi!👋 how can I assist you today?");  }
 })();
 
